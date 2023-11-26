@@ -9,3 +9,5 @@ MANIFEST
 htmlcov
 *.egg-info/
 .cache/
+
+.pybuild/

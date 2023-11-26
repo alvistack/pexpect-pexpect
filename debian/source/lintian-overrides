@@ -1,0 +1,4 @@
+python-pexpect source: file-without-copyright-information
+python-pexpect source: no-debian-changes
+python-pexpect source: source-contains-prebuilt-windows-binary
+python-pexpect source: source-package-encodes-python-version
